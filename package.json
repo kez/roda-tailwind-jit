@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.0",
+    "tailwindcss": "^2.2.19"
+  },
+  "scripts": {
+    "build:css": "npx tailwindcss -o assets/css/tailwind.out.css",
+    "watch:css": "npx tailwindcss -o assets/css/tailwind.out.css --watch "
+  }
+}

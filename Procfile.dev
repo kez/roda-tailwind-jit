@@ -1,0 +1,2 @@
+web: rackup
+css: yarn watch:css --watch

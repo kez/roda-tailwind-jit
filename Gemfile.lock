@@ -1,0 +1,27 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    erubi (1.10.0)
+    foreman (0.87.2)
+    nio4r (2.5.8)
+    puma (5.5.2)
+      nio4r (~> 2.0)
+    rack (2.2.3)
+    rack-unreloader (1.8.0)
+    roda (3.50.0)
+      rack
+    tilt (2.0.10)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  erubi
+  foreman
+  puma
+  rack-unreloader
+  roda
+  tilt
+
+BUNDLED WITH
+   2.2.22
